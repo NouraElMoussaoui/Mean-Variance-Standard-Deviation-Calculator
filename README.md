@@ -7,5 +7,5 @@ This project is part of the FreeCodeCamp Data Analysis with Python course.
 
 ## Features
 
-    Calculate mean, variance, standard deviation, max, min, and sum for each column, each row, and the entire matrix.
+Calculate mean, variance, standard deviation, max, min, and sum for each column, each row, and the entire matrix.
 
